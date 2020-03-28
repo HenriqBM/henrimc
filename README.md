@@ -1,2 +1,2 @@
 # HenriMC
-# Plugin desenvolvido por Henriq#5910.
+Plugin desenvolvido por Henriq#5910.
